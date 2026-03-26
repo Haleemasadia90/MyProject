@@ -1,2 +1,2 @@
 print("Hello Git Week 2!")
-print("Staging example")
+print("My name is Halema Sada. this is my lab2 , i have to submit it to Tayyaba Zahid.")
